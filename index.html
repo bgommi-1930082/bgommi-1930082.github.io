@@ -2,6 +2,17 @@
 <html>
   <head>
     <title>Hello World</title>
+    <styles>
+        @keyframes slide {
+          0% {margin-left: 0px}
+          45% {margin-left: 400px}
+          55% {margin-left: 400px}
+          100% {margin-left: 0px}
+        h1 {
+          animation-name: slide;
+          animation-duration: 8s;
+        }
+    </styles>
   </head>
   <body>
     <h1>Hello World</h1>
