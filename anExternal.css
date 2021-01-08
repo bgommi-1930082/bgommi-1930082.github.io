@@ -12,10 +12,10 @@ div#rounder {
     overflow: hidden;
 }
 p#font1 {
-    font-family: Arial;
+    font-family: Serif;
 }
 p#font2 {
-    font-family: Helvetica;
+    font-family: Cursive;
 }
 img {
     height: 50px;
