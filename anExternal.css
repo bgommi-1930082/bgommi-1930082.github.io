@@ -1,0 +1,13 @@
+div#floater {
+    float: left;
+    height: 800px;
+    width: 300px;
+    border: 1px solid black;
+}
+div#rounder {
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+    border-radius: 10px;
+    overflow: hidden;
+}
